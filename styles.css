@@ -8,7 +8,7 @@ body, h1, h2, p, ul, li, a {
 
 /* Apply a background color and text color to the entire page */
 body {
-    background-color: #111; /* Dark background */
+    background-color: #000; /* Black background */
     color: #fff; /* White text */
 }
 
@@ -22,18 +22,18 @@ header {
 h1 {
     font-size: 36px;
     margin-bottom: 10px;
-    color: #ff6600; /* Orange text */
+    color: #ffcc00; /* Yellow text */
 }
 
 /* Style the band members section */
 #band-members {
-    background-color: #444; /* Slightly darker gray */
+    background-color: #444; /* Dark gray background */
     padding: 20px;
 }
 
 h2 {
     font-size: 24px;
-    color: #ffcc00; /* Yellow text */
+    color: #fff; /* White text */
 }
 
 ul {
@@ -47,18 +47,18 @@ li {
 
 /* Style the music section */
 #music {
-    background-color: #555; /* Darker gray */
+    background-color: #555; /* Darker gray background */
     padding: 20px;
 }
 
 /* Style the contact section */
 #contact {
-    background-color: #444;
+    background-color: #444; /* Dark gray background */
     padding: 20px;
 }
 
 a {
-    color: #fff; /* White text for links */
+    color: #ffcc00; /* Yellow text for links */
     text-decoration: none;
 }
 
